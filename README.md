@@ -14,6 +14,7 @@ How to use "PoEM.exe":
 - _internal
 - Script_POEM.exe
 - Logo_PoEM_tool.ico
+- Logo_PoEM_icoapp.ico
 - Logo_PoEM.png
 
 Script_PoEM.exe works exactly as PoEM.exe, but does not show the starting graphic of PoEM (University of Parma).
@@ -23,9 +24,7 @@ WARINING: Do not rename files present in the folder!
 ###############################
 
 please cite us in our publication: 
-Michele Prencipe, Paolo P. Mazzeo, Alessia Bacchi, 
-A method for the prediction of binary eutectic mixtures for mechanochemical syntheses and cocrystallizations
-RSC Mechanochemistry 2024
+Michele Prencipe, Paolo P. Mazzeo, Alessia Bacchi, "A method for the prediction of binary eutectic mixtures for mechanochemical syntheses and cocrystallizations", RSC Mechanochemistry 2024
 doi: 
 
 
